@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: fabf793dfb8a74cce9ca72e12855caa7
+timeCreated: 1513602683
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Big_Torso
+    100002: Camer
+    100004: Camer.target
+    100006: Camera
+    100008: Camera.target
+    100010: Cap_1
+    100012: Cap_11
+    100014: Cap_12
+    100016: Cap_2
+    100018: Cap_21
+    100020: Cap_22
+    100022: Disc
+    100024: Head
+    100026: L_Arms
+    100028: L_Foot
+    100030: Left_and_R
+    100032: Light
+    100034: Light1
+    100036: Light2
+    100038: Light3
+    100040: Light4
+    100042: Light_1
+    100044: Loft_
+    100046: Loft_1
+    100048: Loft_NURBS
+    100050: Nose
+    100052: Null
+    100054: Olaf
+    100056: R_Arms
+    100058: R_Foot
+    100060: Small_Tors
+    100062: Softbox
+    100064: Softbox_1
+    100066: Softbox_2
+    100068: Stage
+    100070: //RootNode
+    400000: Big_Torso
+    400002: Camer
+    400004: Camer.target
+    400006: Camera
+    400008: Camera.target
+    400010: Cap_1
+    400012: Cap_11
+    400014: Cap_12
+    400016: Cap_2
+    400018: Cap_21
+    400020: Cap_22
+    400022: Disc
+    400024: Head
+    400026: L_Arms
+    400028: L_Foot
+    400030: Left_and_R
+    400032: Light
+    400034: Light1
+    400036: Light2
+    400038: Light3
+    400040: Light4
+    400042: Light_1
+    400044: Loft_
+    400046: Loft_1
+    400048: Loft_NURBS
+    400050: Nose
+    400052: Null
+    400054: Olaf
+    400056: R_Arms
+    400058: R_Foot
+    400060: Small_Tors
+    400062: Softbox
+    400064: Softbox_1
+    400066: Softbox_2
+    400068: Stage
+    400070: //RootNode
+    2300000: Big_Torso
+    2300002: Cap_1
+    2300004: Cap_11
+    2300006: Cap_12
+    2300008: Cap_2
+    2300010: Cap_21
+    2300012: Cap_22
+    2300014: Disc
+    2300016: Head
+    2300018: L_Arms
+    2300020: L_Foot
+    2300022: Left_and_R
+    2300024: Light2
+    2300026: Light3
+    2300028: Light4
+    2300030: Loft_
+    2300032: Loft_1
+    2300034: Loft_NURBS
+    2300036: Nose
+    2300038: Null
+    2300040: Olaf
+    2300042: R_Arms
+    2300044: R_Foot
+    2300046: Small_Tors
+    2300048: Softbox
+    2300050: Softbox_1
+    2300052: Softbox_2
+    2300054: Stage
+    3300000: Big_Torso
+    3300002: Cap_1
+    3300004: Cap_11
+    3300006: Cap_12
+    3300008: Cap_2
+    3300010: Cap_21
+    3300012: Cap_22
+    3300014: Disc
+    3300016: Head
+    3300018: L_Arms
+    3300020: L_Foot
+    3300022: Left_and_R
+    3300024: Light2
+    3300026: Light3
+    3300028: Light4
+    3300030: Loft_
+    3300032: Loft_1
+    3300034: Loft_NURBS
+    3300036: Nose
+    3300038: Null
+    3300040: Olaf
+    3300042: R_Arms
+    3300044: R_Foot
+    3300046: Small_Tors
+    3300048: Softbox
+    3300050: Softbox_1
+    3300052: Softbox_2
+    3300054: Stage
+    4300000: Olaf
+    4300002: Nose
+    4300004: L_Foot
+    4300006: R_Foot
+    4300008: Big_Torso
+    4300010: Small_Tors
+    4300012: L_Arms
+    4300014: Head
+    4300016: R_Arms
+    4300018: Null
+    4300020: Disc
+    4300022: Left_and_R
+    4300024: Softbox_2
+    4300026: Light2
+    4300028: Loft_NURBS
+    4300030: Cap_12
+    4300032: Cap_22
+    4300034: Softbox_1
+    4300036: Light3
+    4300038: Loft_
+    4300040: Cap_11
+    4300042: Cap_21
+    4300044: Softbox
+    4300046: Light4
+    4300048: Loft_1
+    4300050: Cap_1
+    4300052: Cap_2
+    4300054: Stage
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.4
+    second: {fileID: 2100000, guid: 6e98ae03b6851449690dae9501464731, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.8
+    second: {fileID: 2100000, guid: 9c150502e49784cc193b99a5252aec66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat1234
+    second: {fileID: 2100000, guid: 3cc985a3df9dd4d89a0911e3f85eb78b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat12345
+    second: {fileID: 2100000, guid: 132c49305d73140f0b360dca58999872, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1
+    second: {fileID: 2100000, guid: 2e11454c8f61d48a9b48e9e5083caa67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingG
+    second: {fileID: 2100000, guid: 5980adf6dd9274d8899317423c79ab8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wei_
+    second: {fileID: 2100000, guid: f5dbe4a656ca0409a8bd002c3551dcf5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
